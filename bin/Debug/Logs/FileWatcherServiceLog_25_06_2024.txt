@@ -1,0 +1,5 @@
+Service started - 25/06/2024 6:48:16 pm
+File created C:\Folder1\New Text Document.txt - 25/06/2024 6:48:32 pm
+File was moved to C:\Folder2\New Text Document.txt - 25/06/2024 6:48:32 pm
+File deleted C:\Folder1\New Text Document.txt - 25/06/2024 6:48:32 pm
+File created C:\Folder1\New Text Document.txt - 25/06/2024 6:48:51 pm

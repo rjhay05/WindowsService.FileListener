@@ -1,0 +1,11 @@
+E:\Self Study\.NetCore\Repos\WindowsService.FileWatcher\bin\Debug\WindowsService.FileListener.Demo.exe.config
+E:\Self Study\.NetCore\Repos\WindowsService.FileWatcher\bin\Debug\WindowsService.FileListener.Demo.exe
+E:\Self Study\.NetCore\Repos\WindowsService.FileWatcher\bin\Debug\WindowsService.FileListener.Demo.pdb
+E:\Self Study\.NetCore\Repos\WindowsService.FileWatcher\obj\Debug\WindowsService.FileListener.Demo.csproj.AssemblyReference.cache
+E:\Self Study\.NetCore\Repos\WindowsService.FileWatcher\obj\Debug\WindowsService.FileListener.Demo.csproj.SuggestedBindingRedirects.cache
+E:\Self Study\.NetCore\Repos\WindowsService.FileWatcher\obj\Debug\WindowsService.FileListener.Demo.FileWatcherService.resources
+E:\Self Study\.NetCore\Repos\WindowsService.FileWatcher\obj\Debug\WindowsService.FileListener.Demo.ProjectInstaller.resources
+E:\Self Study\.NetCore\Repos\WindowsService.FileWatcher\obj\Debug\WindowsService.FileListener.Demo.csproj.GenerateResource.cache
+E:\Self Study\.NetCore\Repos\WindowsService.FileWatcher\obj\Debug\WindowsService.FileListener.Demo.csproj.CoreCompileInputs.cache
+E:\Self Study\.NetCore\Repos\WindowsService.FileWatcher\obj\Debug\WindowsService.FileListener.Demo.exe
+E:\Self Study\.NetCore\Repos\WindowsService.FileWatcher\obj\Debug\WindowsService.FileListener.Demo.pdb
