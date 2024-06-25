@@ -1,0 +1,13 @@
+﻿Installing assembly 'E:\Self Study\.NetCore\Repos\WindowsService.FileWatcher\bin\Debug\WindowsService.FileListener.Demo.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Self Study\.NetCore\Repos\WindowsService.FileWatcher\bin\Debug\WindowsService.FileListener.Demo.InstallLog
+   assemblypath = E:\Self Study\.NetCore\Repos\WindowsService.FileWatcher\bin\Debug\WindowsService.FileListener.Demo.exe
+Installing service FileWatcherService...
+Service FileWatcherService has been successfully installed.
+Creating EventLog source FileWatcherService in log Application...
+Committing assembly 'E:\Self Study\.NetCore\Repos\WindowsService.FileWatcher\bin\Debug\WindowsService.FileListener.Demo.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Self Study\.NetCore\Repos\WindowsService.FileWatcher\bin\Debug\WindowsService.FileListener.Demo.InstallLog
+   assemblypath = E:\Self Study\.NetCore\Repos\WindowsService.FileWatcher\bin\Debug\WindowsService.FileListener.Demo.exe
