@@ -3,3 +3,52 @@ File created C:\Folder1\New Text Document.txt - 25/06/2024 6:48:32 pm
 File was moved to C:\Folder2\New Text Document.txt - 25/06/2024 6:48:32 pm
 File deleted C:\Folder1\New Text Document.txt - 25/06/2024 6:48:32 pm
 File created C:\Folder1\New Text Document.txt - 25/06/2024 6:48:51 pm
+Service started - 25/06/2024 6:58:19 pm
+File deleted C:\Folder1\New Text Document.txt - 25/06/2024 6:58:31 pm
+File created C:\Folder1\New Text Document.txt - 25/06/2024 6:58:40 pm
+File deleted C:\Folder1\New Text Document.txt - 25/06/2024 6:58:50 pm
+File created C:\Folder1\New folder - 25/06/2024 6:59:05 pm
+File deleted C:\Folder1\New folder - 25/06/2024 6:59:14 pm
+Service stopped - 25/06/2024 6:59:24 pm
+Service started - 25/06/2024 7:06:37 pm
+File created C:\Folder1\New Text Document.txt - 25/06/2024 7:06:49 pm
+IOException: Could not find a part of the path. - 25/06/2024 7:06:49 pm
+Service stopped - 25/06/2024 7:08:17 pm
+Service started - 25/06/2024 7:08:25 pm
+File deleted C:\Folder1\as.txt - 25/06/2024 7:08:29 pm
+File created C:\Folder1\New Text Document.txt - 25/06/2024 7:08:33 pm
+Moved file: C:\Folder1\New Text Document.txt to C:\Folder2\New Text Document.txt - 25/06/2024 7:08:33 pm
+File deleted C:\Folder1\New Text Document.txt - 25/06/2024 7:08:33 pm
+File created C:\Folder1\New Text Document.txt - 25/06/2024 7:08:39 pm
+IOException: Cannot create a file when that file already exists.
+ - 25/06/2024 7:08:39 pm
+File created C:\Folder1\New folder - 25/06/2024 7:09:00 pm
+IOException: Could not find file 'C:\Folder1\New folder'. - 25/06/2024 7:09:00 pm
+File created C:\Folder1\New Text Document.txt - 25/06/2024 7:09:28 pm
+IOException: Cannot create a file when that file already exists.
+ - 25/06/2024 7:09:28 pm
+Service stopped - 25/06/2024 7:11:31 pm
+Service started - 25/06/2024 7:11:48 pm
+File created C:\Folder1\New Text Document.txt - 25/06/2024 7:11:53 pm
+Moved file: C:\Folder1\New Text Document.txt to C:\Folder2\New Text Document.txt_773b86d5-79ec-443d-aaae-875606dbf88d - 25/06/2024 7:11:53 pm
+File deleted C:\Folder1\New Text Document.txt - 25/06/2024 7:11:53 pm
+File created C:\Folder1\New Text Document.txt - 25/06/2024 7:12:11 pm
+Moved file: C:\Folder1\New Text Document.txt to C:\Folder2\New Text Document.txt_50b7a76a-0d20-4112-99a8-4362db2a1390 - 25/06/2024 7:12:11 pm
+File deleted C:\Folder1\New Text Document.txt - 25/06/2024 7:12:11 pm
+File created C:\Folder1\New Text Document.txt - 25/06/2024 7:12:22 pm
+Moved file: C:\Folder1\New Text Document.txt to C:\Folder2\New Text Document.txt_94418f93-713b-440d-9efe-3b5a4cec5768 - 25/06/2024 7:12:22 pm
+File deleted C:\Folder1\New Text Document.txt - 25/06/2024 7:12:22 pm
+File created C:\Folder1\New folder - 25/06/2024 7:12:37 pm
+IOException: Could not find file 'C:\Folder1\New folder'. - 25/06/2024 7:12:37 pm
+Service stopped - 25/06/2024 7:14:17 pm
+Service started - 25/06/2024 7:14:24 pm
+File created C:\Folder1\New Text Document.txt - 25/06/2024 7:14:30 pm
+File created C:\Folder1\New Text Document (2).txt - 25/06/2024 7:14:49 pm
+Service stopped - 25/06/2024 7:14:55 pm
+Service started - 25/06/2024 7:19:44 pm
+File created C:\Folder1\New Text Document.txt - 25/06/2024 7:19:53 pm
+Moved file: C:\Folder1\New Text Document.txt to C:\Folder2\New Text Document.txt_34b55c9d-6c99-4183-b6fe-24f19d467d4e - 25/06/2024 7:19:53 pm
+File deleted C:\Folder1\New Text Document.txt - 25/06/2024 7:19:53 pm
+File created C:\Folder1\New folder - 25/06/2024 7:19:55 pm
+IOException: Could not find file 'C:\Folder1\New folder'. - 25/06/2024 7:19:55 pm
+Service stopped - 25/06/2024 7:20:42 pm
